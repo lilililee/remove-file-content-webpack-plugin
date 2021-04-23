@@ -1,0 +1,23 @@
+{
+  "name": "remove-file-content-webpack-plugin",
+  "version": "1.0.0",
+  "description": "移除文件中指定内容",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilililee/remove-file-content-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilililee/remove-file-content-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/lilililee/remove-file-content-webpack-plugin#readme"
+}
